@@ -1,0 +1,8 @@
+torch
+datasets
+sentencepiece
+evaluate
+sacrebleu
+rouge-score
+nltk
+tqdm
